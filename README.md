@@ -15,9 +15,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 In this project, I shall answer the following business questions using Heart Failuure dataset:
 
-1 .What's the Correlation between heart failure and different aspects?
-2. What is the smokers' percentage for each gender?
-3. Can the frequency of follow up times affect the death events?
+- What's the Correlation between heart failure and different aspects?
+- What is the smokers' percentage for each gender?
+- Can the frequency of follow up times affect the death events?
 
 
 ## File Descriptions <a name="files"></a>
