@@ -26,3 +26,19 @@ My objective of this analysis is to answer the following questions:
 
 
 In the next section you can find analysis and answers for each of the above questions.
+
+
+## Analysis & Findings <a name="Findings"></a>
+
+#### *Q1- What's the Correlation between heart failure and different aspects?
+
+To answer my first question let's have a look at the data
+
+![figure_1](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/Uda_P1_pic/describe.png)
+
+let's also confirm that we don't have any missing data, as we can see there're no missing data in the dataset.
+
+![figure_2](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/Uda_P1_pic/null.png)
+
+
+
