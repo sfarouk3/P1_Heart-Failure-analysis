@@ -28,7 +28,7 @@ The notebook is easy to navigate and I have added comments and markdown cells to
 
 ## Results<a name="results"></a>
 
-The analysis and findings of this study can be found in the "Blog-HeartFailureAnalysis.md" [here](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/blog.md).
+The analysis and findings of this study can be found in the "blog.md" [here](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/blog.md).
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
