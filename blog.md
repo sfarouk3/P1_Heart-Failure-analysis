@@ -40,7 +40,10 @@ let's also confirm that we don't have any missing data, as we can see there're n
 
 ![figure_2](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/Uda_P1_pic/null.png)
 
-Now, let's see the correlation between different aspects in the dataset, as we can see from  below matrix we can see positive correlation between sex and smoking and negative correlation between time and Death events
+Now, let's see the correlation between different aspects in the dataset, as we can see from  below matrix:
+- Negative correlation between time "follow-up times" and Death events.
+- Next factors correlated to Death events are ejection_fraction then age then serum_sodium.
+- Positive correlation between sex and smoking.
 
 ![figure_3](https://github.com/sfarouk3/P1_Heart-Failure-analysis/blob/main/Uda_P1_pic/corr.png)
 
@@ -63,3 +66,4 @@ Now let's summarize the findings:
 
 - Males tends to be smokers more than females
 - The higher the times of follow up the lower the death events
+- Next factors correlated to Death events are ejection_fraction then age then serum_sodium.
