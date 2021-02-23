@@ -28,10 +28,10 @@ I have also added comments and markdown cells to make it easier to navigate and 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found in the "Blog-HouseSalesAnalysis.md" [here](https://github.com/telayat/House-Sales-Analysis/blob/main/Blog-HouseSalesAnalysis.md) attached to this repo.
+The main findings of the code can be found in the "Blog-HeartFailureAnalysis.md" [here](https://github.com/telayat/House-Sales-Analysis/blob/main/Blog-HouseSalesAnalysis.md) attached to this repo.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The Ames Housing dataset was compiled by Dean De Cock for use in data science education, credit must be given to Dean.
-You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).  Otherwise, feel free to use the code here as you would like! 
+Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020).
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data).  Otherwise, feel free to use the code here as you would like! 
 
